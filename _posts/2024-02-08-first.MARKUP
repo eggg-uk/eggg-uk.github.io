@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "first post please ignore"
+date:   2024-02-08 19:53:29 +0000
+categories: eggg
+---
+
+{% highlight powershell %}
+git clone https://github.com/username/egguk.github.io #man i suck at git
+{% endhighlight %}
+
+also setting this up was no walk in the park:
+- recreated git account
+- horrible gravatar avatar which has followed me for years showed up
+- ditched that avatar finally
+- tried to create github page
+- made the repo private, thought it was paid only in spite of what i'd read
+- went over to the cloudflare thing
+- didn't like how overcomplicated that was, felt like logging into aws or azure for the first time with the amount of jargon
+- got my life in order and got this created
+- and here we are. 
+
